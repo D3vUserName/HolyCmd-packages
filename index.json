@@ -2,7 +2,7 @@
   {
     "n": "iptools",
     "v": "1.0.0",
-    "d": "",
+    "d": "Network reconnaissance toolkit for IP analysis, DNS queries, WHOIS lookups, and port scanning",
     "author": "420username",
     "requires": [
       "requests", 
