@@ -5,10 +5,10 @@
     "d": "",
     "author": "420username",
     "requires": [
-      requests, 
-      pyyaml, 
-      dnspython, 
-      python-whois
+      "requests", 
+      "pyyaml", 
+      "dnspython", 
+      "python-whois"
     ]
   }
 ]
