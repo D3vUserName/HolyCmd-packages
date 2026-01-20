@@ -4,6 +4,11 @@
     "v": "1.0.0",
     "d": "",
     "author": "420username",
-    "requires": [requests pyyaml dnspython python-whois]
+    "requires": [
+      requests, 
+      pyyaml, 
+      dnspython, 
+      python-whois
+    ]
   }
 ]
